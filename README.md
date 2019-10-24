@@ -1,2 +1,2 @@
-# WebAppSchoolProject
+# Web App School Project
 This is hospital web application which I was created for my school project.
